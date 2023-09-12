@@ -1,0 +1,3 @@
+writing this text to the file from cli
+newline or same line?
+it was a new line!
